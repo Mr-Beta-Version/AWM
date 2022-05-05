@@ -20,8 +20,7 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from AFCT5 import bnsbuy
+    from awm import bnsbuy
     bnsbuy()
 elif bit == '32bit':
-    from AFC import bnsbuy
-    bnsbuy()
+    exit('Opps Your Device Not Supported')
