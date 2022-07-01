@@ -31,4 +31,5 @@ $ python3 Beta.py
  python3 Beta.py
 ```
 
-![20200808_160757](https://github.com/Mr-Beta-Version/AWM/blob/main/Screenshot_20220624_015712.jpg)
+![25July2022](https://github.com/Mr-Beta-Version/AWM/blob/main/Screenshot_20220624_015712.jpg)
+![25July2022](https://github.com/Mr-Beta-Version/AWM/blob/main/received_338245621837541.jpeg)
