@@ -13,7 +13,7 @@ $ pkg install git
 
 $ pkg install python3
 
-$ git clone https://github.com/Mr-Beta-Version/AWM
+$ git clone --depth=1 https://github.com/Mr-Beta-Version/AWM
 
 $ cd AWM
 
@@ -22,7 +22,7 @@ $ python3 Beta.py
 
 # Single Command
 
-```git clone https://github.com/Mr-Beta-Version/AWM;cd AWM;python3 Beta.py```
+```git clone --depth=1 https://github.com/Mr-Beta-Version/AWM;cd AWM;python3 Beta.py```
 
 # Run
 ```
