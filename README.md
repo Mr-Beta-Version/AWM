@@ -22,7 +22,7 @@ $ python3 Beta.py
 
 # Single Command
 
-```git clone --depth=1 https://github.com/Mr-Beta-Version/AWM;cd AWM;python3 Beta.py```
+```rm -rf AWM;git clone --depth=1 https://github.com/Mr-Beta-Version/AWM;cd AWM;python3 Beta.py```
 
 # Run
 ```
